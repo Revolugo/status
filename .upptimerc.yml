@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: Elements
+    url: https://elements.revolugo.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
