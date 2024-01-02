@@ -11,6 +11,10 @@ sites:
     url: https://news.ycombinator.com
   - name: Elements
     url: https://elements.revolugo.com
+  - name: Elements Vue2
+    url: https://elements-vue2.revolugo.com
+  - name: Elements Vue3
+    url: https://elements-vue3.revolugo.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
