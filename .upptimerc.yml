@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Revolugo/status/master/assets/revolugo-logo.svg
   name: Revolugo status
   introTitle: "**Revolugo**: Booking platform for your events"
   introMessage: This is the official status page of Revolugo services
