@@ -30,8 +30,8 @@ status-website:
   introTitle: "**Revolugo**: Booking platform for your events"
   introMessage: This is the official status page of Revolugo services
   navbar:
-    - title: Status
-      href: /status
+    # - title: Status
+    #  href: /
     - title: Website
       href: https://www.revolugo.com/
 
