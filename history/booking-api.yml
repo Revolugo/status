@@ -1,7 +1,7 @@
 url: https://booking-api.staging.revolugo.com/healthcheck
 status: up
 code: 200
-responseTime: 372
-lastUpdated: 2024-01-03T13:11:28.500Z
+responseTime: 301
+lastUpdated: 2024-01-03T13:43:10.485Z
 startTime: 2024-01-02T14:13:32.199Z
 generator: Upptime <https://github.com/upptime/upptime>
