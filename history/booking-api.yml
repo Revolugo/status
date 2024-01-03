@@ -1,7 +1,7 @@
-url: https://booking-api.revolugo.com
+url: https://booking-api.staging.revolugo.com/health
 status: down
 code: 404
-responseTime: 333
-lastUpdated: 2024-01-02T23:07:28.573Z
+responseTime: 487
+lastUpdated: 2024-01-03T12:05:07.167Z
 startTime: 2024-01-02T14:13:32.199Z
 generator: Upptime <https://github.com/upptime/upptime>
