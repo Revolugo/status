@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/booking-api.staging.revolugo.com.ico",
     "slug": "booking-api",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 384,
     "timeDay": 384,
     "timeWeek": 384,
@@ -37,7 +37,7 @@
     "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-01-03": 730,
+      "2024-01-03": 731,
       "2024-01-02": 586
     }
   },
