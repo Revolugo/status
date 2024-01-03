@@ -20,6 +20,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Revolugo/status/master/assets/revolugo-logo.svg
+  cname: status.revolugo.com
   name: Revolugo status
   introTitle: "**Revolugo**: Booking platform for your events"
   introMessage: This is the official status page of Revolugo services
