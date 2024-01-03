@@ -31,7 +31,7 @@ status-website:
   introMessage: This is the official status page of Revolugo services
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Website
       href: https://www.revolugo.com/
 
