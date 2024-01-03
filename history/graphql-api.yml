@@ -1,7 +1,7 @@
 url: https://graphql-api.staging.revolugo.com/healthcheck
 status: down
 code: 404
-responseTime: 313
-lastUpdated: 2024-01-03T12:51:08.463Z
+responseTime: 300
+lastUpdated: 2024-01-03T13:02:19.108Z
 startTime: 2024-01-02T14:13:35.242Z
 generator: Upptime <https://github.com/upptime/upptime>
