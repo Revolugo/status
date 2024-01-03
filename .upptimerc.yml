@@ -5,14 +5,19 @@ repo: status # The name of this repository
 sites:
   - name: Booking API
     url: https://booking-api.staging.revolugo.com/healthcheck
+    showAverageResponseTime: false
   - name: Graphql API
     url: https://graphql-api.staging.revolugo.com/healthcheck
+    showAverageResponseTime: false
   - name: Elements
     url: https://elements.revolugo.com
+    showAverageResponseTime: false
   - name: Elements Vue2
     url: https://elements-vue2.revolugo.com
+    showAverageResponseTime: false
   - name: Elements Vue3
     url: https://elements-vue3.revolugo.com
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
